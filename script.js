@@ -35,7 +35,7 @@ function showMessage(response) {
     // Update text content, show message, and change image source to "dance.gif"
     const yesMessage = document.getElementById("question");
     yesMessage.textContent = "bahseb eftkrtik hadosy no 😘😘
-      yala ashoofik ba2a yom 14 aw 15";
+      yala ashoofik ba2a yom el khamees";
     yesMessage.style.display = "block";
     yesMessage.style.fontStyle = "normal";
     document.getElementsByClassName("image")[0].src = "images/dance.gif";
